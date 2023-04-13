@@ -27,11 +27,9 @@ Licious is India's first D2C Unicorn, headquartered in Bengaluru, Karnataka, Ind
 
 ### Presentation
 
-[Presentation Video](https://drive.google.com/file/d/1LpLZKPakKJdsG6fCnWekXdF4XrBKo3qn/view?usp=drivesdk)
 
 ### Blog
 
-[Licious Clone Blog](https://medium.com/@micgupta01/licious-in-clone-masai-construct-week-project-d2c72c65e23f)
 
 ## Wbsite Sneak Peeks
 
@@ -67,9 +65,7 @@ Licious is India's first D2C Unicorn, headquartered in Bengaluru, Karnataka, Ind
 
 ![Payment Page](./Sneak%20Peeks/Payment.png?raw=true)
 
-- **Thank You**
 
-![Thank You](./Sneak%20Peeks/Thankyou.png?raw=true)
 
 # Getting Started with Create React App
 
