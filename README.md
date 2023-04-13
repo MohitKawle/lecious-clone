@@ -1,6 +1,6 @@
 # Licious Clone
 
-This collaborative project is a clone of the [Licious](https://www.licious.in/) website. We as a team of 5 members cloned this website during our project construction week of Unit-4 in Masai School, Bangalore.
+
 
 Licious is India's first D2C Unicorn, headquartered in Bengaluru, Karnataka, India.The company operates on a farm-to-fork model, owning the entire back-end supply chain and cold chain.It operates in more than 25 Indian cities.Licious is the first company in the sector to have pledged towards a complete ESG compliance.
 
